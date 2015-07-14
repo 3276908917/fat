@@ -23,7 +23,7 @@ import entities.Machine;
 public class Game extends MasterInfo implements ActionListener, KeyListener{
 	// All sounds to be played are added to this ArrayList and removed once played.
 	private static ArrayList<Clip> soundStack = new ArrayList<Clip>();
-	//This is a test
+
 	// The Game constructor loads the area, creates the timers, and sets-up player objects. 
 	public Game() {
 		loadMap();
