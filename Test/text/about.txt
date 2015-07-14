@@ -1,0 +1,16 @@
+"Immortal" by Lukas Finkbeiner
+
+Music: Roope Mäkinen (main menu)
+		Kris 'dyzv0r' Cadwell
+
+Robot Image: Half-Life
+
+Menu icons: icons.mysitemyway.com
+
+Step noises: System Shock 2
+
+Frame noises: Kris 'dyzv0r' Cadwell
+
+Main menu button sound: Cry of Fear
+
+Version c3, 7/12/15
